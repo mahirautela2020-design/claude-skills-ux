@@ -220,3 +220,6 @@ Claude Code will automatically discover and use skills from these directories.[w
 - Update the YAML frontmatter in `SKILL.md` (`name`, `description`, `metadata`) and adjust the instructions to match your own UX processes.[web:319]  
 - Keep skill folder and `name` fields in kebab‑case, avoid `claude` or `anthropic` in names, and don’t use `<` or `>` in descriptions.[web:319][web:331]
 ```
+## License
+
+This project is open source under the [MIT License](./LICENSE).
